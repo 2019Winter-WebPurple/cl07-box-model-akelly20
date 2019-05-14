@@ -1,0 +1,31 @@
+/*
+* Anna Kelly
+* 3/5/19
+* Box Model
+*/
+
+/* the universal selector */
+
+* { margin: 60px;
+    padding: 20px;
+}
+
+/* Body properties here */
+
+body{
+    border: 20px solid lightblue;
+    height: auto;
+    width: auto;
+}
+
+main{ 
+    border: 5px dotted aqua;
+}
+
+h1{
+    border: 20px dashed pink;
+}
+
+p{
+    border: 5px double lavender;
+}
